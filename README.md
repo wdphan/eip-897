@@ -1,6 +1,6 @@
 # EIP-897
 
-> First Proxy Contract Practice 
+> First ERC20 Delegate Proxy 
 
 In order to avoid having two variables taking the same storage slot, we need all contracts to be aware of the additional storage necessary for the proxy. 
 
